@@ -1,0 +1,19 @@
+{
+  "kontaks": [
+    {
+      "id": 1,
+      "nama": "Muhammad Ashshiddiqi",
+      "nohp": "083899633723"
+    },
+    {
+      "id": 3,
+      "nama": "Umi Juju",
+      "nohp": "08921940301920"
+    },
+    {
+      "id": 4,
+      "nama": "Siska Wulandari",
+      "nohp": "2222"
+    }
+  ]
+}
